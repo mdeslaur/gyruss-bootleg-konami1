@@ -1,6 +1,6 @@
 # Gyruss Bootleg Konami-1 CPU
 
-This is a bootleg Konami-1 encrypted CPU daugtherboard found on a booleg
+This is a bootleg Konami-1 encrypted CPU daughterboard found on a booleg
 Gyruss pcb.
 
 I have drawn out the schematic in Kicad format. A PDF of the schematic, and
